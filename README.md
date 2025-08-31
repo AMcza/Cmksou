@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22068828/README.md)
 ### 基于Springboot+es的聚合搜索项目
 
 ### 项目介绍
