@@ -53,11 +53,13 @@
 
 ## 🎨 系统展示
 
-### 🖥️ 首页聚合搜索
-![首页聚合搜索](https://github.com/user-attachments/assets/aef3478-306c-4ad5-9347-ebce39884c64)
-
-### 🔍 搜索结果页
-![搜索结果](https://github.com/user-attachments/assets/f60cdde0-9c79-4afc-8120-b96b68dda7ee)
+### 🖥️ 文章接口
+![用户聚合搜索](<img width="1377" height="911" alt="image" src="https://github.com/user-attachments/assets/c301efcd-7d0a-4fe1-8723-c19c41d34614" />
+)
+### 🔍 图片接口
+![文章结果](https://github.com/user-attachments/assets/f60cdde0-9c79-4afc-8120-b96b68dda7ee)
+## 🔍  用户接口
+![用户搜索结果](https://github.com/user-attachments/assets/bf8299c7-2038-497f-b782-374c0288e430)
 
 > 更多截图正在上传中...
 
